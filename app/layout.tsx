@@ -7,7 +7,7 @@ import type React from "react" // Added import for React
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Shopping List App",
+  title: "A bevásárló lista",
   description: "A simple shopping list application",
 }
 
